@@ -3,9 +3,7 @@ layout: default
 title: Research
 ---
 
-## Research
-
-
+## Publications
 
 <div class="tab-container">
     <button class="tab-button active" data-tab="selected">Selected</button>

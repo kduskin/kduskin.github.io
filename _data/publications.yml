@@ -10,6 +10,8 @@
   venue: "Proceedings of the International AAAI Conference on Web and Social Media"
   year: 2026
   thumbnail: "/assets/images/papers/authorLeaning_scatter.png"
+  links:
+    paper: "https://arxiv.org/abs/2509.09826"
   bibtex: |
     @article{Duskin2026-kz,
       title={The Role of Follow Networks and Twitter’s Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election},
@@ -22,8 +24,8 @@
   selected: true
   type: "dataset"
   authors:
-    - "Joseph Schafer"
-    - "Kayla Duskin"
+    - "Joseph Schafer<sup>‡</sup>"
+    - "Kayla Duskin<sup>‡</sup>"
     - "Stephen Prochaska"
     - "Morgan Wack"
     - "Anna Beers"
@@ -35,7 +37,6 @@
   venue: "Journal of Quantitative Description: Digital Media"
   year: 2025
   thumbnail: "/assets/images/papers/process_diagram.png"
-  equal_contribution: true
   links:
     paper: "https://journalqd.org/article/view/5669"
   bibtex: |
@@ -80,7 +81,7 @@
     - "Emma S. Spiro"
   venue: "Web Science Conference (WebSci)"
   year: 2024
-  thumbnail: "/assets/images/papers/partisan_piechart.png"
+  thumbnail: "/assets/images/papers/partisanship_piechart.png"
   links:
     paper: "https://dl.acm.org/doi/10.1145/3614419.3643996"
   bibtex: |

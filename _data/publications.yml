@@ -9,6 +9,7 @@
     - "Emma S. Spiro"
   venue: "Proceedings of the International AAAI Conference on Web and Social Media"
   year: 2026
+  thumbnail: "/assets/images/papers/authorLeaning_scatter.png"
   bibtex: |
     @article{Duskin2026-kz,
       title={The Role of Follow Networks and Twitter’s Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election},
@@ -33,6 +34,7 @@
     - "Kate Starbird"
   venue: "Journal of Quantitative Description: Digital Media"
   year: 2025
+  thumbnail: "/assets/images/papers/process_diagram.png"
   links:
     paper: "https://journalqd.org/article/view/5669"
   bibtex: |
@@ -54,6 +56,7 @@
     - "Damian Hodel"
   venue: "arXiv preprint [cs.SI]"
   year: 2024
+  thumbnail: "/assets/images/papers/speed_of_factcheck.png"
   links:
     paper: "http://arxiv.org/abs/2412.13280"
   bibtex: |
@@ -75,6 +78,7 @@
     - "Emma S. Spiro"
   venue: "Web Science Conference (WebSci)"
   year: 2024
+  thumbnail: "/assets/images/papers/partisan_piechart.png"
   links:
     paper: "https://dl.acm.org/doi/10.1145/3614419.3643996"
   bibtex: |
@@ -101,6 +105,7 @@
     - "Kate Starbird"
   venue: "Proceedings of the ACM on Human-Computer Interaction (CSCW1)"
   year: 2023
+  thumbnail: "/assets/images/papers/cnllmfuture-thumb.png"
   links:
     paper: "https://dl.acm.org/doi/abs/10.1145/3579616"
   bibtex: |

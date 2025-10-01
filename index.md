@@ -4,9 +4,7 @@ layout: default
 
 ## About Me
 
-I am a PhD candidate at the <a href="https://www.washington.edu">University of Washington</a> where I conduct research with the <a href="https://ischool.uw.edu/research/center-informed-public"> Center for an Informed Public</a>. I am advised by <a href="https://ischool.uw.edu/people/faculty/profile/jevinw">Jevin West</a> and <a href="https://ischool.uw.edu/people/faculty/profile/espiro">Emma Spiro</a> and supported through the National Science Foundation as an NSF Graduate Research Fellow. 
-
-My research experience encompasses topics across computational social science, online misinformation, social network analysis, machine learning and natural language processing. My current work focuses on the relationship between deployed algorithmic systems and problematic online information environments. 
+I am a PhD candidate at the <a href="https://www.washington.edu">University of Washington</a> where I conduct research with the <a href="https://ischool.uw.edu/research/center-informed-public"> Center for an Informed Public</a>. I am advised by <a href="https://ischool.uw.edu/people/faculty/profile/jevinw">Jevin West</a> and <a href="https://ischool.uw.edu/people/faculty/profile/espiro">Emma Spiro</a> and supported through the National Science Foundation as an NSF Graduate Research Fellow. My research experience encompasses topics across computational social science, online misinformation, social network analysis, machine learning and natural language processing. My current work focuses on the relationship between deployed algorithmic systems and problematic online information environments. 
 
 <br/><br/>
 

@@ -5,14 +5,7 @@ title: Research
 
 ## Research
 
- <!-- My current research interests are broadly within <a href="https://www.science.org/doi/10.1126/science.1167742">Computational Social Science</a>, and span several topics including <a href="https://dl.acm.org/doi/10.5555/3692070.3693952">pluralistic alignment</a>, <a href="https://arxiv.org/pdf/1606.06565">scalable oversight</a> and algorithms with <a href="https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/">pro-social</a> objectives.<br/><br/>
 
- Much of my past research deals with strategic information operations and political influencing in the Global South. This includes studies on rumours, conspiracies and other forms of online influencing, primarily on X (formerly, Twitter).<br/><br/>
-
-
-<p style="font-style: italic; color: #586069; margin-bottom: 30px;">
-    "The work is mysterious and important." — <a href="https://www.imdb.com/title/tt11280740/" style="font-style: normal;">Mark S, Lumon Industries</a>
-</p> -->
 
 <div class="tab-container">
     <button class="tab-button active" data-tab="selected">Selected</button>

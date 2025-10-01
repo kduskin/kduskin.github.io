@@ -108,7 +108,7 @@
     - "Kate Starbird"
   venue: "Proceedings of the ACM on Human-Computer Interaction (CSCW1)"
   year: 2023
-  thumbnail: "/assets/images/papers/cnllmfuture-thumb.png"
+  thumbnail: "/assets/images/papers/sonoma_temporal.PNG"
   links:
     paper: "https://dl.acm.org/doi/abs/10.1145/3579616"
   bibtex: |

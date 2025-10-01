@@ -4,9 +4,11 @@ layout: default
 
 ## About Me
 
-I'm a PhD student at the <a href="https://www.washington.edu">University of Washington</a> advised by <a href="https://faculty.washington.edu/msaveski">Martin Saveski</a>. I'm also a part of the larger <a href="https://www.cip.uw.edu">Center for an Informed Public</a> at UW and a research affiliate at <a href="https://www.mit.edu/">MIT</a>.  My research interests are broadly within <a href="https://www.science.org/doi/10.1126/science.1167742">Computational Social Science</a>, and span several topics including <a href="https://dl.acm.org/doi/10.5555/3692070.3693952">pluralistic alignment</a>, <a href="https://arxiv.org/pdf/1606.06565">scalable oversight</a> and algorithms with <a href="https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/">pro-social</a> objectives. Previously, I interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a> and at the <a href="https://umich.edu/">University of Michigan</a> under <a href="https://joyojeet.people.si.umich.edu/">Joyojeet Pal</a>. I graduated magna cum laude from <a href="https://www.ashoka.edu.in/">Ashoka University</a> with a Gold Medal in Computer Science. Beyond academics, I'm a competent artist, photographer, archer and an incompetent pianist.<br/><br/>
+I am a PhD candidate at the <a href="https://www.washington.edu">University of Washington</a> where I conduct research with the <a href="https://ischool.uw.edu/research/center-informed-public"> Center for an Informed Public</a>. I am advised by <a href="https://ischool.uw.edu/people/faculty/profile/jevinw">Jevin West</a> and <a href="https://ischool.uw.edu/people/faculty/profile/espiro">Emma Spiro</a> and supported through the National Science Foundation as an NSF Graduate Research Fellow. 
 
-If you're interested in my research (and even if you aren't) let's chat 💬, get <a href="https://www.corner.inc/list/f8e4fe28-926d-4c2d-8205-aba38ec232c0">coffee</a>  ☕ and/or <a href="https://www.corner.inc/list/e95b5dee-3a77-4c01-b562-9b9d0417e5c8">hike</a> up a mountain ⛰️! 
+My research experience encompasses topics across computational social science, online misinformation, social network analysis, machine learning and natural language processing. My current work focuses on the relationship between deployed algorithmic systems and problematic online information environments. 
+
+<br/><br/>
 
 
 ## Recent Research <a href="/research" class="link-button">View all</a>
@@ -60,10 +62,10 @@ If you're interested in my research (and even if you aren't) let's chat 💬, ge
     {% endfor %}
 </div>
 
-## Teaching & Service <a href="/teaching" class="link-button">View all</a>
+<!-- ## Teaching & Service <a href="/teaching" class="link-button">View all</a>
 
 I serve as a reviewer and/or PC member for CHI, CSCW, WWW, ICWSM, CACM and IC2S2. I co-organise the <a href="https://joyojeet.people.si.umich.edu/influencers.htm">Social Media and Society in India conference</a> annually, where I also chair the student session. I'm a teaching assistant for <a href="https://www.washington.edu/students/crscat/imt.html#imt573">IMT 573: Data Science I</a> taught by <a href="https://faculty.washington.edu/msaveski">Martin Saveski</a> (usually, every Autumn quarter). <a href="https://ameliadogan.github.io/">Amelia</a> and I are the Social Co-Chairs for the Doctoral Students' Association at the iSchool.<br/><br/>
 
-Website design was inspired by <a href="https://faculty.washington.edu/msaveski">Martin Saveski</a>, <a href="https://debarghyadas.com/">Deedy Das</a> and <a href="https://vis.csail.mit.edu/">The MIT Visualization Group</a>. Feel free to fork it!
+Website design was inspired by <a href="https://faculty.washington.edu/msaveski">Martin Saveski</a>, <a href="https://debarghyadas.com/">Deedy Das</a> and <a href="https://vis.csail.mit.edu/">The MIT Visualization Group</a>. Feel free to fork it! -->
 
 

@@ -5,20 +5,20 @@ title: Research
 
 ## Research
 
- My current research interests are broadly within <a href="https://www.science.org/doi/10.1126/science.1167742">Computational Social Science</a>, and span several topics including <a href="https://dl.acm.org/doi/10.5555/3692070.3693952">pluralistic alignment</a>, <a href="https://arxiv.org/pdf/1606.06565">scalable oversight</a> and algorithms with <a href="https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/">pro-social</a> objectives.<br/><br/>
+ <!-- My current research interests are broadly within <a href="https://www.science.org/doi/10.1126/science.1167742">Computational Social Science</a>, and span several topics including <a href="https://dl.acm.org/doi/10.5555/3692070.3693952">pluralistic alignment</a>, <a href="https://arxiv.org/pdf/1606.06565">scalable oversight</a> and algorithms with <a href="https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/">pro-social</a> objectives.<br/><br/>
 
  Much of my past research deals with strategic information operations and political influencing in the Global South. This includes studies on rumours, conspiracies and other forms of online influencing, primarily on X (formerly, Twitter).<br/><br/>
 
 
 <p style="font-style: italic; color: #586069; margin-bottom: 30px;">
     "The work is mysterious and important." — <a href="https://www.imdb.com/title/tt11280740/" style="font-style: normal;">Mark S, Lumon Industries</a>
-</p>
+</p> -->
 
 <div class="tab-container">
     <button class="tab-button active" data-tab="selected">Selected</button>
     <button class="tab-button" data-tab="all">All</button>
 </div>
-Most recent publications on <a href="#">Google Scholar</a>. <br/>
+Most recent publications on <a href="https://scholar.google.com/citations?user=6EsQFT8AAAAJ">Google Scholar</a>. <br/>
 ‡ indicates equal contribution. <br/> <br/>
 
 <div id="selected" class="tab-content active">
@@ -34,7 +34,7 @@ Most recent publications on <a href="#">Google Scholar</a>. <br/>
                 <p class="authors">
                     {% for author in pub.authors %}
                         {%- if forloop.last %} and {% endif %}
-                        {%- if author == "Soham De" -%}
+                        {%- if author == "Kayla Duskin" -%}
                             <strong>{{ author }}</strong>
                         {%- else -%}
                             {{ author }}
@@ -46,7 +46,7 @@ Most recent publications on <a href="#">Google Scholar</a>. <br/>
                 <p class="venue"><em>{{ pub.venue }}. {{ pub.year }}</em></p>
                 <div class="pub-links">
                     {% if pub.links.abstract %}<a href="{{ pub.links.abstract }}">Abstract</a>{% endif %}
-                    {% if pub.links.paper %}<a href="{{ pub.links.paper }}">PDF</a>{% endif %}
+                    {% if pub.links.paper %}<a href="{{ pub.links.paper }}">Paper</a>{% endif %}
                     {% if pub.links.code %}<a href="{{ pub.links.code }}">Code</a>{% endif %}
                     <a class="bibtex-btn" data-bibtex="{{ pub.bibtex | default: 'No BibTeX available' }}">
                         <svg class="copy-icon" viewBox="0 0 16 16" fill="currentColor">
@@ -75,7 +75,7 @@ Most recent publications on <a href="#">Google Scholar</a>. <br/>
                 <p class="authors">
                     {% for author in pub.authors %}
                         {%- if forloop.last %} and {% endif %}
-                        {%- if author == "Soham De" -%}
+                        {%- if author == "Kayla Duskin" -%}
                             <strong>{{ author }}</strong>
                         {%- else -%}
                             {{ author }}
@@ -87,7 +87,7 @@ Most recent publications on <a href="#">Google Scholar</a>. <br/>
                 <p class="venue"><em>{{ pub.venue }}. {{ pub.year }}</em></p>
                 <div class="pub-links">
                     {% if pub.links.abstract %}<a href="{{ pub.links.abstract }}">Abstract</a>{% endif %}
-                    {% if pub.links.paper %}<a href="{{ pub.links.paper }}">PDF</a>{% endif %}
+                    {% if pub.links.paper %}<a href="{{ pub.links.paper }}">Paper</a>{% endif %}
                     {% if pub.links.code %}<a href="{{ pub.links.code }}">Code</a>{% endif %}
                     <a class="bibtex-btn" data-bibtex="{{ pub.bibtex | default: 'No BibTeX available' }}">
                         <svg class="copy-icon" viewBox="0 0 16 16" fill="currentColor">
@@ -103,8 +103,8 @@ Most recent publications on <a href="#">Google Scholar</a>. <br/>
     </div>
 </div>
 
-## Media Coverage
-
+<!-- ## Media Coverage -->
+<!-- 
 <div class="publications-list">
     {% assign media = site.data.publications | where: "type", "media" | sort: "year" | reverse %}
     {% for item in media %}
@@ -132,4 +132,4 @@ Most recent publications on <a href="#">Google Scholar</a>. <br/>
         </div>
     </div>
     {% endfor %}
-</div> 
+</div>  -->

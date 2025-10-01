@@ -35,6 +35,7 @@
   venue: "Journal of Quantitative Description: Digital Media"
   year: 2025
   thumbnail: "/assets/images/papers/process_diagram.png"
+  equal_contribution: true
   links:
     paper: "https://journalqd.org/article/view/5669"
   bibtex: |
@@ -50,6 +51,7 @@
 - title: "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach"
   selected: true
   type: "paper"
+  equal_contribution: true
   authors:
     - "Morgan Wack"
     - "Kayla Duskin"

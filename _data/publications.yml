@@ -1,3 +1,25 @@
+- title: "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach"
+  selected: true
+  type: "paper"
+  equal_contribution: true
+  authors:
+    - "Morgan Wack"
+    - "Kayla Duskin"
+    - "Damian Hodel"
+  venue: "Political Communication"
+  year: 2026
+  thumbnail: "/assets/images/papers/speed_of_factcheck.png"
+  links:
+    paper: "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2704896"
+  bibtex: |
+    @article{Wack2024-nc,
+      title={Political fact-checking efforts are constrained by deficiencies in coverage, speed, and reach},
+      author={Wack, Morgan and Duskin, Kayla and Hodel, Damian},
+      journal={Political Communication},
+      year={2026},
+      url={https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2704896}
+    }
+    
 - title: "The Role of Follow Networks and Twitter’s Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election"
   selected: true
   type: "paper"
@@ -47,28 +69,6 @@
       volume={5},
       year={2025},
       url={https://journalqd.org/article/view/5669}
-    }
-
-- title: "Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and Reach"
-  selected: true
-  type: "paper"
-  equal_contribution: true
-  authors:
-    - "Morgan Wack"
-    - "Kayla Duskin"
-    - "Damian Hodel"
-  venue: "arXiv preprint [cs.SI]"
-  year: 2024
-  thumbnail: "/assets/images/papers/speed_of_factcheck.png"
-  links:
-    paper: "http://arxiv.org/abs/2412.13280"
-  bibtex: |
-    @article{Wack2024-nc,
-      title={Political fact-checking efforts are constrained by deficiencies in coverage, speed, and reach},
-      author={Wack, Morgan and Duskin, Kayla and Hodel, Damian},
-      journal={arXiv preprint arXiv:2412.13280},
-      year={2024},
-      url={http://arxiv.org/abs/2412.13280}
     }
 
 - title: "Echo Chambers in the Age of Algorithms: An Audit of Twitter’s Friend Recommender System"
